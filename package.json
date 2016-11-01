@@ -117,6 +117,7 @@
     "babel-preset-es2017": "6.16.0",
     "babel-preset-latest": "6.16.0",
     "babel-preset-react": "6.16.0",
+    "babel-preset-react-native": "git+ssh://git@gitlab.pcnt.io:saint/rn-pcnt-babel-preset-react-native.git",
     "babel-preset-stage-0": "6.16.0",
     "babel-preset-stage-1": "6.16.0",
     "babel-preset-stage-2": "6.18.0",

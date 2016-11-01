@@ -191,6 +191,7 @@ registerPresets({
   es2017: require('babel-preset-es2017'),
   latest: require('babel-preset-latest'),
   react: require('babel-preset-react'),
+  'react-native': require('babel-preset-react-native/configs/standalone'),
   'stage-0': require('babel-preset-stage-0'),
   'stage-1': require('babel-preset-stage-1'),
   'stage-2': require('babel-preset-stage-2'),
