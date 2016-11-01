@@ -1,5 +1,5 @@
 {
-  "name": "babel-standalone",
+  "name": "babel-standalone-pcnt",
   "version": "6.18.1",
   "description": "Standalone build of Babel for use in non-Node.js environments. Similar to the (now deprecated) babel-browser",
   "main": "babel.js",
@@ -9,12 +9,11 @@
   },
   "files": [
     "babel.js",
-    "babel.min.js",
     "src"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Daniel15/babel-standalone.git"
+    "url": "git+https://github.com/ale-pcnt/babel-standalone.git"
   },
   "devDependencies": {
     "babel-core": "6.18.0",
@@ -140,10 +139,10 @@
     "transpile",
     "transpiler"
   ],
-  "author": "Daniel Lo Nigro \u003cdaniel@dan.cx\u003e (http://dan.cx/)",
+  "author": "Alejandro Weichandt \u003calejandro@poincenot.com\u003e",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Daniel15/babel-standalone/issues"
+    "url": "https://github.com/ale-pcnt/babel-standalone/issues"
   },
-  "homepage": "https://github.com/Daniel15/babel-standalone#readme"
+  "homepage": "https://github.com/ale-pcnt/babel-standalone#readme"
 }
